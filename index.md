@@ -1,37 +1,40 @@
-## Welcome to GitHub Pages
+<html>
+<head>
+<title>Daisy Berrington </title>
+<link rel="stylesheet" type="text/css" href="style.css">
+</head>
+<body>
 
-You can use the [editor on GitHub](https://github.com/dberrington/daisys-website/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+<ul>
+  <li><a class="active" href="file://cur-fsm/2014$/UserData/14BerringtonD/Year%2010/I.T/Portfolio/index.html">Home</a></li>
+  <li><a href="file://cur-fsm/2014$/UserData/14BerringtonD/Year%2010/I.T/Portfolio/C1.html">Chapter 1</a></li>
+  <li><a href="file://cur-fsm/2014$/UserData/14BerringtonD/Year%2010/I.T/Portfolio/C2.html">Chapter 2</a></li>
+  <li><a href="file://cur-fsm/2014$/UserData/14BerringtonD/Year%2010/I.T/Portfolio/C3.html">Chapter 3</a></li>
+  <li><a href="file://cur-fsm/2014$/UserData/14BerringtonD/Year%2010/I.T/Portfolio/C4.html">Chapter 4</a></li>
+  <li><a href="file://cur-fsm/2014$/UserData/14BerringtonD/Year%2010/I.T/Portfolio/C5.html">Chapter 5</a></li>
+  <li><a href="file://cur-fsm/2014$/UserData/14BerringtonD/Year%2010/I.T/Portfolio/C6.html">Chapter 6</a></li>
+  <li><a href="file://cur-fsm/2014$/UserData/14BerringtonD/Year%2010/I.T/Portfolio/C7.html">Chapter 7</a></li>
+  <li><a href="file://cur-fsm/2014$/UserData/14BerringtonD/Year%2010/I.T/Portfolio/C8.html">Chapter 8</a></li>
+  <li><a href="file://cur-fsm/2014$/UserData/14BerringtonD/Year%2010/I.T/Portfolio/C9.html">Chapter 9</a></li>
+  <li><a href="file://cur-fsm/2014$/UserData/14BerringtonD/Year%2010/I.T/Portfolio/C10.html">Chapter 10</a></li>
+  <li><a href="file://cur-fsm/2014$/UserData/14BerringtonD/Year%2010/I.T/Portfolio/C11.html">Chapter 11</a></li>
+  <li><a href="file://cur-fsm/2014$/UserData/14BerringtonD/Year%2010/I.T/Portfolio/C12.html">Chapter 12</a></li>
+  <li><a href="file://cur-fsm/2014$/UserData/14BerringtonD/Year%2010/I.T/Portfolio/C13.html">Chapter 13</a></li>
+  <li><a href="file://cur-fsm/2014$/UserData/14BerringtonD/Year%2010/I.T/Portfolio/C14.html">Chapter 14</a></li>
+  <li><a href="file://cur-fsm/2014$/UserData/14BerringtonD/Year%2010/I.T/Portfolio/C15.html">Chapter 15</a></li>
+  <li><a href="file://cur-fsm/2014$/UserData/14BerringtonD/Year%2010/I.T/Portfolio/useful tags.html">Useful tags</a></li>
+  </ul>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+<div style="margin-left:25%;padding:1px 16px;height:1000px;">
 
-### Markdown
+<h1> Daisy Berrington's Portfolio </h1>
+<marquee behavior=alternate width="1000″ scrollamount="12″ scrolldelay="95″ height="50″ bgcolor="#E7D5FF">what a mess</marquee>
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+</object>
 
-```markdown
-Syntax highlighted code block
+</div>
 
-# Header 1
-## Header 2
-### Header 3
+</body>
+</html>
+</div>
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/dberrington/daisys-website/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
